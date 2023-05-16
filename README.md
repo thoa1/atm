@@ -1,4 +1,4 @@
 # atm
 
 ## Functionality
-*simeple atm using design patterns
+* Simple atm using design patterns
